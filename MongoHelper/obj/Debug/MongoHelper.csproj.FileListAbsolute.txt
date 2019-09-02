@@ -1,0 +1,5 @@
+E:\WrokProject\骆驼MES\tool\MongoHelper\MongoHelper\MongoHelper\bin\Debug\MongoHelper.dll
+E:\WrokProject\骆驼MES\tool\MongoHelper\MongoHelper\MongoHelper\bin\Debug\MongoHelper.pdb
+E:\WrokProject\骆驼MES\tool\MongoHelper\MongoHelper\MongoHelper\obj\Debug\MongoHelper.dll
+E:\WrokProject\骆驼MES\tool\MongoHelper\MongoHelper\MongoHelper\obj\Debug\MongoHelper.pdb
+E:\WrokProject\骆驼MES\tool\MongoHelper\MongoHelper\MongoHelper\obj\Debug\MongoHelper.csprojResolveAssemblyReference.cache
